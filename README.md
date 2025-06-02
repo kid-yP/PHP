@@ -1,8 +1,9 @@
 PHP Course Repository 🐘💻
+
 Overview 📌
+
 Welcome to my PHP course repository! This contains all the PHP files I created and developed while learning PHP. These files cover a wide range of concepts—from basic syntax to advanced features like database interactions, sessions, and object-oriented programming.
 
-Whether you're a beginner exploring PHP or an experienced developer, there's something valuable for everyone here! 🤓✨
 
 Contents 📂
 Here’s a breakdown of what's inside:
